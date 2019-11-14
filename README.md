@@ -1,2 +1,0 @@
-# vuejs
-Created with CodeSandbox
